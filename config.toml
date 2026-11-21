@@ -42,6 +42,7 @@ names = ["ControlD"]
 "META Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
 "Spam IDNs" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json"
 "Known Issues allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
+"Microsoft Tracker allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
@@ -58,6 +59,7 @@ ControlD    = [
   "Referral Allow",
   "META Tracker Allow",
   "Spam IDNs",
-  "Known Issues allow"
+  "Known Issues allow",
+  "Microsoft Tracker allow"
   ]
   
